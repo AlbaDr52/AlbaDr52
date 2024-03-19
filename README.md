@@ -1,8 +1,8 @@
-- 👋 Eai, Eu sou o Pablo
-- 👀 I’m interested in ...
+- 👋 Hey, I'm Pablo
+- 👀 I’m interested in learning new things
 - 🌱 Atualmente estou cursando ADS na Sptech
 - 💞️ Backend/Cybersecurity
-- 📫 How to reach me ...
+- 📫 How to reach me: email: pablorsantana88@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: ...
 
